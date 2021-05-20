@@ -1,4 +1,4 @@
-version="0.1"
+version="0.3"
 group="com.baremetalcloud"
 
 plugins {
@@ -84,7 +84,6 @@ plugins.withId("com.vanniktech.maven.publish") {
     sonatypeHost = com.vanniktech.maven.publish.SonatypeHost.S01
   }
 }
-
 
 
 

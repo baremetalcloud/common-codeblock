@@ -7,5 +7,5 @@ Common-Only multiplatform hacked implementation of KotlinPoet CodeBlock.
 Use by adding the dependency from Maven Central in your build.gradle.kts
 
 ```
-implementation("com.baremetalcloud:common-codeblock0.1")
+implementation("com.baremetalcloud:common-codeblock:0.3")
 ```
